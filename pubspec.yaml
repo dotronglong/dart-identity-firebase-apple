@@ -1,0 +1,20 @@
+name: identity_firebase_apple
+description: A new Flutter package project.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sso: ^0.1.0
+  identity: ^0.1.0
+  identity_firebase: ^0.1.0
+  firebase_auth: ^0.15.3
+
+flutter:
+  assets:
+    - images/apple.png
