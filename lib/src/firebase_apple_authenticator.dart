@@ -19,7 +19,7 @@ class FirebaseAppleAuthenticator
           textColor: Colors.white,
           icon: Image.asset("images/apple.png",
               package: "identity_firebase_apple", width: 24, height: 24),
-          text: "Sign In With Apple")
+          text: "Sign in with Apple")
       : Container();
 
   @override
